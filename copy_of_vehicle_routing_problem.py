@@ -113,5 +113,4 @@ def main():
     return pop, stats, hof
 
 if __name__ == "__main__":
-    # TODO: Task 9 - Call the main function, run the algorithm and print the results
     main()
